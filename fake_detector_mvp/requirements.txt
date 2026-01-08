@@ -1,5 +1,0 @@
-streamlit
-pandas
-numpy
-networkx==3.3
-matplotlib
